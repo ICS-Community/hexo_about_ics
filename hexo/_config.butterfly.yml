@@ -3,7 +3,7 @@
 # --------------------------------------
 
 menu:
-  首页: / || fas fa-home
+  首页: https://about.ics.ink || fas fa-home
   时间轴: /archives/ || fas fa-archive
   标籤: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open

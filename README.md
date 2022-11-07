@@ -24,6 +24,6 @@ npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap
 git pull --ff-only
 
 git fetch --all
-git reset --hard origin/main
+git reset --hard origin/master
 git pull
 ```
